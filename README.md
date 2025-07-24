@@ -2,14 +2,6 @@
 
 This is a web-based interactive dashboard built using **Streamlit**, **Pandas**, and **Plotly**. It helps visualize and analyze customer behavior from a dataset, making it easier to uncover trends, insights, and KPIs that are critical for decision-making.
 
----
-
-## 🚀 Live Demo
-
-👉 [Click here to view the deployed app](https://your-username.streamlit.app)  
-
-
----
 
 ## 🧠 Features
 
